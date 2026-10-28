@@ -1,9 +1,9 @@
 # Networking Basics Lab
 
-**Type:** Beginner Cybersecurity / Networking
-**Environment:** Windows PowerShell
-**Tools:** `ipconfig`, `ping`
-**Status:** Completed
+- **Type:** Beginner Cybersecurity / Networking
+- **Environment:** Windows PowerShell
+- **Tools:** `ipconfig`, `ping`
+- **Status:** Completed
 
 ---
 
