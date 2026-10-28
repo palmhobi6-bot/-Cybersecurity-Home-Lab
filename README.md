@@ -1,3 +1,4 @@
+
 🔐 Cybersecurity Home Lab
 
 📌 Project Overview
@@ -77,5 +78,13 @@ My goal is to develop the technical skills required to start a career in cyberse
 
 I believe that cybersecurity requires both theoretical knowledge and practical experience.
 
+
 This repository documents my progress, experiments, lessons learned, and projects.
+---
+
+## 📚 Lab Notes
+
+| Lab | Description | Tools |
+|---|---|---|
+| [Networking Basics](notes/networking-basics.md) | IP configuration and connectivity testing on Windows (IPv4, subnet mask, default gateway, ping, packet loss) | `ipconfig`, `ping` |
 
